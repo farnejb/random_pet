@@ -1,0 +1,1 @@
+Creates a random pet ID and outputs to console
